@@ -1,0 +1,6 @@
+{
+	"title": "2월1주 정기보고",
+	"content": "   마이크로웨이브 플라즈마 방전에 적합한 cavity 크기를 찾는 실험을 <br>보다 정밀하게 하였습니다.<br>우선 pressure를 직접 측정할 수 있도록 T형태의 관을 quartz에 연결한 후 <br>ion gauge와 thermocouple gauge를 T관 상단에 설치했고<br>T관에 TMP를 가로로 달아서 측면으로 pumping을 하였습니다.<br>base pressure가 10^-6Torr로 떨어지는 것을 확인하였기 때문에<br>pumping하는데에 문제가 없다고 결론을 지었습니다.<br><br> 지난번에는 cavity의 싸이즈를 10mm간격으로 바꾸어가며 <br>d length를 135,145,155mm로 3번을 측정하였었습니다.<br>이번에는 5mm간격으로 cavity 싸이즈를 변화시키며 측정해보았습니다.<br>즉,  160,155,150,145,140,135mm로 6번의 실험을 하였습니다.<br>이번 실험에서도 지난번처럼 145mm일때의 breakdown power가 <br>가장 작았는데 140mm일 때도 145mm와 거의 비슷한 breakdown power가 <br>나타났기 때문에 가장 정확한 optimized cavity size는 <br>140~145mm사이에 있다고 결론을 내릴 수 있었습니다. <br>140과 145mm에서 breakdown power가 거의 차이가 나지 않았기때문에<br>더 이상의 cavity optimizing은 실익이 없어보입니다.<br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=113&amp;filenum=1\"><font class=\"list_eng\">DSCN4115.JPG (938.7 KB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=113&amp;filenum=2\"><font class=\"list_eng\">cavity_optimazing.jpg (317.3 KB)</font></a>"
+}

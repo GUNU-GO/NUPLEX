@@ -1,0 +1,5 @@
+{
+	"title": "70GHz 간섭계를 이용한 플라즈마 밀도 측정",
+	"content": "  현재 실험실에 구비되어 있는 70GHz 간섭계를 실린더형 IEC 장치의 외부 소스 플라즈마 밀도 측정에 적용하여 보았습니다.<br>beating frequency가 80MHz이기 때문에 이부분에 주의를 기울여서 장치 세팅을 하면 10^11 /cm^3 정도의 플라즈마 밀도는 무난하게 측정이 가능할 것으로 보입니다.<br>아울러 랑뮤어 프로브로 측정한 데이터와 비교를 하였습니다. 프로브는 포인트에서의 값이고 간섭계의 경우 line average된 값인 것을 감안한다면 상당히 일치하는 결과를 보였습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=34&amp;filenum=1\"><font class=\"list_eng\">[20051013_랩보드]_간섭계를_이용한_플라즈마_밀도_측정.ppt (676.0 KB)</font></a>"
+}

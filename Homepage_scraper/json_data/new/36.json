@@ -1,0 +1,5 @@
+{
+	"title": "이산화탄소 레이저 스펙트럼 분석",
+	"content": "  수리한 이산화탄소 레이저의 스펙트럼을 분석하였습니다. 9P, 9R, 10P, 10R 그룹이 선명하게 구별됨이 확인되고 각 그룹의 최대 빔 파워는 약 140 W 정도입니다. 이 그룹 중, 원적외선 레이저 펌핑용으로 사용될 9P 그룹에 대해서는 보다 높은 분해능으로 스펙트럼 분석되었으며, 스펙트럼 중 몇 개의 피크에 대해 샘플 조사한 결과 9P34 및 9P36 line을 찾을 수 있었습니다. 재조립 이전의 데이터와 비교하여 볼 때 회절격자의 각도가 0.2 도 정도 차이가 있습니다. 따라서 원적외선 레이저의 펌핑을 위한 이산화탄소 레이저의 준비는 완료되었습니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=45&amp;filenum=1\"><font class=\"list_eng\">co2_laser_spectrum_analysis.ppt (1.42 MB)</font></a>"
+}

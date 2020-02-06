@@ -1,0 +1,5 @@
+{
+	"title": "5월 2주 정기보고",
+	"content": "  MW cavity resonator plasma source에서 빔 인출실험을 하기에 앞서<br>플라즈마 전극을 접지시키고 bias 전극을 약 -50V~50V으로 sweep시키면서<br>bias 전극으로 흐르는 전류를 측정하였습니다.<br>input power는 100W, 150W, 200W<br>Ar은 30sccm, 40sccm, 50sccm으로 변화시키며 실험을 하였습니다.<br><br>25V인 지점에서 전류가 급격하게 증가하였으므로<br>local discharge가 발생하였음을 확인할 수 있었습니다.<br>local discharge에 의해 bias 전극으로 흐르는 전류가 포화되는 양은<br>30sccm, 40sccm, 50sccm일 때 모두 input power에 따라 증가하였는데 <br>이것은 인출홀 부근의 플라즈마 밀도가 input power에 따라 <br>증가하였기 때문으로 설명할 수 있습니다.<br><br>고전압을 플라즈마 전극에 인가하였을 때 <br>펌핑 라인상에서 방전이 발생해서 빔인출실험은 수행하지 못하였습니다.<br>펌핑라인의 방전문제를 해결하는 하는대로 빔인출을 해보겠습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=132&amp;filenum=1\"><font class=\"list_eng\">local_discharge_IV_curve.opj (311.2 KB)</font></a>"
+}

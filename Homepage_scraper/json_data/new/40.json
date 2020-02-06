@@ -1,0 +1,5 @@
+{
+	"title": "[랩미팅 발표자료] 입자평형방정식을 이용한 수소음이온 발생 계산",
+	"content": " <br> 3월 20일 랩미팅 발표자료입니다.<br> 부족한 부분이 많아서 조금 망설여지지만 일단 업로드합니다.<br> 앞으로 보충해서 더 좋은 자료를 올리도록하겠습니다.<br><br> 교수님께서 어제 말씀해주신 방향에 따라 공부를 진행해 나가려 합니다.<br><br> 1. 입자평형방정식을 이용한 음이온 발생 계산 코드를 재연<br> 2. 이전 연구 성과에 대한 조사<br>( 이전 연구 성과가 없다면 )<br> 3. 실험소스에 적합한 전자에너지 분포 함수의 적용과 다양한 전자에너지 분포 함수를 적용할 수 있는 코드 제작<br> 4. Plasma transport 적용<br> 5. 코드를 벤치마킹할 수 있는 데이터 확보<br>   - 실험실 음이온 소스의 플라즈마 데이터 측정<br>   - OES를 이용해서 측정한 결과를 제시한 논문 검색<br><br> 많은 조언 부탁드립니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=49&amp;filenum=1\"><font class=\"list_eng\">negative_ion_beam_modeling_20060320.ppt (2.98 MB)</font></a>"
+}

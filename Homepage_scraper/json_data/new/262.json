@@ -1,0 +1,5 @@
+{
+	"title": "[정기 보고] 8월 첫째주",
+	"content": "  이번에는 따로 결과를 도출하지 못하였습니다. 지난 팀미팅에서 말씀드린 바대로 OOPIC을 이용해서 다양한 Reflex discharge들을 재현해 보고자 하였고, 애초 목표를 이번 주로 잡았는데 달성하지 못하였습니다. 예상한 부분들과는 결과가 달랐거나 혹은 제가 해석을 잘 못했거나, 계산이 잘 못된 것 같습니다. 좀 더 공부를 하면서 진행을 하여 다음 보고 때 정리하여 말씀드리겠습니다. 일반 DC보다 상대적으로 복잡한 방전 메카니즘을 충분히 숙지하여야 결과에 대한 해석을 할 수 있을 것 같습니다. 다음 번까지는 꼭 결과를 도출하겠습니다. <br><br>그리고 간단한 그림을 하나 첨부하였습니다. 조건은 자장이 비록 0 Gauss 이지만 수소 압력을 10Torr 로 하고 Anode에 1kV를 걸어주었을 때 방전이 일어나는 듯한 모습을 보여주는 그림입니다. 하지만 아직은 초기 전자들에 의한 효과일 뿐이고 Ion들이 Cathode로 이동하여 빠져나가는 현상까지는 보아야 하겠습니다. 다만 Reflex discharge의 5번 모드의 극단적인 경우라고 볼 수 있을 것 같아 일단 그림을 하나 첨부합니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=277&amp;filenum=1\"><font class=\"list_eng\">090804_2_1_overall.jpg (481.0 KB)</font></a>"
+}

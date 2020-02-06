@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고]4월 셋째 주 팀미팅 발표 자료입니다.",
+	"content": "  Capacitance 변화에 따른 output 전압 변화는 다른 다이오드 모델(D1N4009)을 이용하여 다시 하였습니다.<br><br>다이오드의 recovery time이 회로내의 oscillation time보다 충분히 작아야 큰 전압 증폭을 얻는 것으로 보입니다.<br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=326&amp;filenum=1\"><font class=\"list_eng\">100416_PSpicesimulation(IES).ppt (3.57 MB)</font></a>"
+}

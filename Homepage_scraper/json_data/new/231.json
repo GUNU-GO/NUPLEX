@@ -1,0 +1,5 @@
+{
+	"title": "6월 첫째 주 정기 보고",
+	"content": "  FIR 레이저를 구동하기 위해서 해결할 점들을 나열했습니다. <br><br>우선 오늘 MKS의 바라트론을 주문했습니다. <br><br>그리고 제일광학 등으로부터 FIR 레이저 빔 인출부분의 Stage를 주문할 계획이구요,<br><br>가장 심각한 문제인 CO2 레이저용 냉각수 온도조절기의 고장은 <br><br>내부를 분해하여 살펴 보았지만 아직 정확한 원인을 파악하지 못하고 있습니다. <br><br>현재 냉각용 Fan의 모터가 제대로 작동하지 않는 것으로 생각하고 있는데요,<br><br>정확한 작동 메커니즘을 알지 못하고 있기 때문에 역시 확실한 원인을 알지 못하는 상태입니다. <br><br>국내에서 관련 업체들과 상의하여 수리 혹은 구입으로 해결을 해 보려고 합니다. <br><br>위의 문제들을 해결하는 대로 본격적으로 FIR 빔 인출 실험을 수행할 것입니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=245&amp;filenum=1\"><font class=\"list_eng\">090605_FIR_laser.ppt (5.20 MB)</font></a>"
+}

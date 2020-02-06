@@ -1,0 +1,5 @@
+{
+	"title": "이산화탄소 레이저 회절격자 교체 및 재정렬",
+	"content": "  에딘버러 PL6 이산화탄소 레이저의 회절격자를 교체하고 공진기 전체를 재정렬하였습니다. 작년 가을쯤에 회절 격자 부근에서의 스파크로 인한 화재가 발생하여 회절격자가 오염되고 출력 커플러의 각이 어긋남으로 인해 빔 출력이 수 W 정도 밖에 되지 않는 문제를 해결하기 위한 것입니다. 2006년 2월 7일까지 정렬 작업을 수행한 결과 임의의 빔 라인에 대하여 최대 150 W의 빔 출력을 확인할 수 있었으며, 그 이후 오랜 시간의 정렬에도 불구하고 더이상 출력 증가를 얻을 수 없어 이 상태로 정렬을 마치고 고정하였습니다. 비록 매뉴얼 상의 빔 최대 출력은 180 W 이지만 작년에 원적외선 레이저 실험으로는 100 W 정도의 빔 출력으로 실험해 왔으므로 이 정도의 출력이면 Stark 레이저의 실험에 적절한 값으로 판단되었기 때문입니다. 첨부는 이산화탄소 레이저를 정렬하는 방법을 정리한 것입니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=44&amp;filenum=1\"><font class=\"list_eng\">co2_laser_grating_replacement_and_cavity_alignment.ppt (4.97 MB)</font></a>"
+}

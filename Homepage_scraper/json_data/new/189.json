@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] ICP diffusion & Issues on four parameter fit",
+	"content": " <br> RF antenna 근처에서 발생한 ICP가 LSP의 발생과 진단을 위한 영역(RF antenna로부터 25cm 정도 떨어진 영역)까지 충분히 diffusion하였다는 것을 Langmuir probe 진단을 통해 확인하였습니다.<br><br> 더불어 Langmuir probe로부터 얻은 데이터를 Four parameter fit 방법으로 해석할 경우 반드시 고려해야 할 항목들을 정리해 보았습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=201&amp;filenum=1\"><font class=\"list_eng\">20090313_ICPchamberfabrication4LSP_III.ppt (2.36 MB)</font></a>"
+}

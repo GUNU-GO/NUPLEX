@@ -1,0 +1,5 @@
+{
+	"title": "Cylindrical IEC discharge data",
+	"content": "  교수님이 말씀하신대로 실험데이터부터 먼저 올렸습니다.<br>진공도를 높이려고 하다보니 시간이 조금 걸리게 되어  많은 데이터를 얻지는 못하였습니다.<br>일단 전류값을 고정시키고 압력을 낮추어가며 전압을 측정하는 방식으로 데이터를 정리하였고 <br>전극의 사이즈에 따른 값을 정리하였습니다.<br>실험 조건의 pd값은 완벽하진 못하지만 거의 동일한 상태이고, cathode의 세로 길이에 따른 <br>방전특성의 변화가 눈에 띄게 보임을 알 수 있었습니다.<br>교수님께서 말씀하신대로 추후 소형챔버와 대형챔버에서의 방전특성을 비교하는 형식으로 <br>optinum한 조건을 찾고, intermediate 전극의 사용하는 방향으로 실험을 진행하도록 하겠습니다. <br>    <br>   ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=164&amp;filenum=1\"><font class=\"list_eng\">Study_on_discharge_characteristic_10_17.ppt (1.32 MB)</font></a>"
+}

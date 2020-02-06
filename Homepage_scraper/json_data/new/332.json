@@ -1,0 +1,6 @@
+{
+	"title": "KSTAR rogowski coil calibration관련입니다.",
+	"content": "  7월 말과 8월 초에 KSTAR를 세차례 방문해서<br><br>박준교 박사님과 fusma 이정원씨와 calibration을 진행하였습니다.<br><br>원래 계획은 TF field에 3.5T를 걸고 진행하였어야 하나(magnetic material들을 saturation을 시켜야 합니다.)<br><br>현재 KSTAR TF냉각이 여전히 진행중이라고 합니다. 그래서 9월중에야 정확한 calibration이<br><br>가능할듯 합니다.<br><br>일단 현재까지 진행된 사항과 박준교 박사님께서 전에 발표하셨던 KSTAR<br><br>Magetic diagnosis 관련 파일을 첨부하겠습니다.<br><br>calibration이 완전히 마무리 되는 9월중에 history부터 전부 다 정리해서 팀미팅 시간에 발표하도록 하겠습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=348&amp;filenum=1\"><font class=\"list_eng\">EPS2007_VCM_final.pptx (7.28 MB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=348&amp;filenum=2\"><font class=\"list_eng\">KSTAR_Rogowski_Coil_Calibration_Results.pptx (377.6 KB)</font></a>"
+}

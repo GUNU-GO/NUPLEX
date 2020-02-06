@@ -1,0 +1,5 @@
+{
+	"title": "위상비교 회로용 배터리 팩",
+	"content": "  전에 학교에서 선호와 함께 위상비교 회로용 배터리 모듈을 제작했었는데, 사용시간이 두 시간 정도로 짧은 문제가 있어서 알아보다가 배터리 팩을 주문 제작해 주는 업체가 있어서 하나 제작을 해 보았습니다. <br><br>납축전지가 아니라 리튬이온전지를 사용해서 작은 크기로도 24시간 동안 사용이 가능하고 충전과 동시에 사용할 수도 있기 때문에 배터리 용량으로 인한 문제는 없을 것 같습니다. 가격은 80만원 정도로 싼 편은 아니지만 리튬이온전지를 사용할 경우 납축전지와는 달리 과충전이나 과방전을 방지하기 위한 보호회로가 필요하므로 직접 만들기는 힘듭니다. 지금 실험실에서 쓰고 있는 배터리 모듈에 문제가 있으면 여기서 하나 주문 제작을 해 보는 것도 괜찮을 것 같습니다. 배터리 팩 구조는 첨부한 파일을 참조하시기 바랍니다.<br><br>업체 이름은 가나무역이고 전화번호는 02-2068-5337, 홈페이지는 http://www.battery04.com/ 입니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=10&amp;filenum=1\"><font class=\"list_eng\">배터리팩.ppt (991.5 KB)</font></a>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "새로 제작된 phase comparator 테스트 결과",
+	"content": "   기존에 손으로 제작한 phase comparator의 노이즈 문제 및 소자의 발진문제를 해결하기 위해 새로운 PCB를 주문제작한 후 고주파 특성이 좋은 소자들과 발진을 막기위한 캐패시터를 채택 PCB위에 실장, 테스트 하였습니다.<br> 기존에 손으로 제작된 phase comparator에 비하여 깨끗한 신호를 잡을 수 있었으며 최대 오차가 25mV(1/100F)로 선적분 밀도가 10^12#/cm2 이상 되는 플라즈마의 경우에 비교적 정확한 밀도를 측정할 수 있을 것으로 기대가 됩니다.<br> 자세한 내용은 첨부파일을 참고하시기 바랍니다.<br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=19&amp;filenum=1\"><font class=\"list_eng\">Newly_fabricated_phase_comarator.ppt (3.67 MB)</font></a>"
+}

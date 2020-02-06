@@ -1,0 +1,6 @@
+{
+	"title": "spark-gap switch ignitor",
+	"content": "  안녕하세요? 정순욱입니다.<br>다들 잘 계실 거라 생각됩니다.<br><br>예전에 스파크 갭 스위치 사용하는 걸 몇 번 생각해봤었지만, <br>갭 사이를 초기방전시키는 ignitor가 없어서 사용을 못했었는데, <br>얼마 전에 구입하려고 하던 중 North-Star에서는 3200불, <br>다른 회사에서는 pulse transformer 제외 600불 + 2달의 lead-time이 걸려서 <br>어떻게 할까 하던 중 직접 제작해보았습니다. 나중에 필요하신 분들에게도 도움이 될 것 같아 올립니다.<br><br>필요한 건 200-300 V 파워서플라이, 스위칭 서킷, 펄스 트랜스포머인데<br>그 중 펄스 트랜스포머는 구입하는 게 좋고, 파워서플라이랑 스위칭 서킷은 직접 만들 수 있습니다.<br>그래서 저같은 경우 파워서플라이랑 스위칭 서킷은 직접 만들었는데<br>파워서플라이용 트랜스포머랑 스위칭용 캐패시터만 빼면 (그건 실험실에 굴러다니는 걸 주워서 쓴 것이라서)<br>토탈 코스트가 2만원이 안 든 것 같습니다. (+ 2-3일의 노가다)<br><br>라이징 타임은 <300ns 정도 되고, max 출력은 30kV-40kV 정도 됩니다.<br>필요하신 분들은 참고하시라고 datasheet와 예시 동영상을 올립니다.<br><br>정순욱 올림",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=342&amp;filenum=1\"><font class=\"list_eng\">datasheet.pdf (79.1 KB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=342&amp;filenum=2\"><font class=\"list_eng\">MVI_2521.avi (1.19 MB)</font></a>"
+}

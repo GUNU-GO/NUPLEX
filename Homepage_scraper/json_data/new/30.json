@@ -1,0 +1,5 @@
+{
+	"title": "에미턴스 데이터 처리용 오리진 스크립트",
+	"content": "  에미턴스 데이터 처리용 오리진 스크립트입니다.<br>컴퓨터로 받은 자료(여러개의 컬럼 파일들)를 <br>(bad data 제거,) -> 스무딩 -> offset 확인 및 제거 <br>-> x,y축 변환 -> 파일 연결을 하는 스크립트 입니다.<br>프로파일을 확인하기 위해 빔 픽을 적분하여 따로 저장하는 작업도 포함되어 있습니다.<br>파일 변환인 제대로 되고 있는지를 확인하기 위해 파일 임폴트는 하나씩하도록 하였습니다. 스크립트를 원활히 실행하기 위해서는 사전에 약간의 오리진의 셋팅이 필요합니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=39&amp;filenum=1\"><font class=\"list_eng\">Upload.zip (10.0 KB)</font></a>"
+}

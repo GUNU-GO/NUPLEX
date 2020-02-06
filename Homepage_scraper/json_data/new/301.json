@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] 3월 둘째 주",
+	"content": "  PSpice 시뮬레이션 한 결과 입니다.<br><br>SOS diode를 활용한 pulse generation 회로를 시뮬레이션 하였습니다.<br><br>현재 SOS diode 대신 일반 다이오드(1N4004)를 회로에 넣어 load 저항을 변화 시켜가면서 <br>output 전압과 다이오드로 흐르는 전류를 살펴보았습니다.<br>그리고 인덕터 값을 키워서 output 전압과 다이오드로 흐르는 전류를 살펴보았습니다.<br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=316&amp;filenum=1\"><font class=\"list_eng\">100315_PSpicesimulation.ppt (4.96 MB)</font></a>"
+}

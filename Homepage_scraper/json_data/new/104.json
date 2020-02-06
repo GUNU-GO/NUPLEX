@@ -1,0 +1,6 @@
+{
+	"title": "2월 2주 정기보고",
+	"content": "  방전전의 cavity optimization에 이어서<br>방전후의 cavity optimization을 하고자 정전탐침을 이용한<br>플라즈마의 밀도측정을 해보았습니다.<br>결과는 첨부한 그림과 같습니다.<br><br>즉 플라즈마가 존재하지 않는 방전전에는 d length가 약 140~145mm일때가<br>방전을 일으키는 input power가 가장 작은 것으로보아<br>optimum d length가 140~145mm사이에 있다고 판단이 되었었는데<br><br>방전을 일으키고 100W로 플라즈마를 유지하면서 밀도측정을 해본 결과로는 <br>d length가 작아짐에 따라 밀도가 증가하는 추세를 보였습니다.<br>따라서 플라즈마를 운전하는데에 적합한 d length는 <br>135mm이하에 있다고 생각이 됩니다.<br><br>cavity내부를 완전 진공으로 가정하였던 HFSS상에서는 <br>155mm가 optimum d length였으나<br>Ar과 quartz과 Air로 이루어져있던 방전전의 cavity에서는 140~145mm,<br>거기에 Ar plasma가 발생한 이후인 방전후의 cavity에서는 135mm이하인 것은 <br>각 시뮬레이션과 실험상에서 내부 구성물질들로 인한<br>permittivity의 차이에 의한것으로 보입니다.<br><br>플라즈마가 발생함으로써 effective permittivity가 매우 증가한 것으로 판단되는데<br>플라즈마와 유전율간의 상관관계를 공부해보아야겠습니다. <br><br><br><br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=115&amp;filenum=1\"><font class=\"list_eng\">breakdown_power.jpg (70.6 KB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=115&amp;filenum=2\"><font class=\"list_eng\">plasma_density.jpg (152.5 KB)</font></a>"
+}

@@ -1,0 +1,6 @@
+{
+	"title": "[정기보고]11월 둘째주",
+	"content": "   마이크로웨이브로 플라즈마를 발생시키기 위한 resonator로서 <br>cavity 설계를 하였습니다.<br>시뮬레이션 툴로서 HFSS를 사용하였는데 <br>처음 다루어보는 것이라서 인터페이스에 적응하는데 시간이 좀 걸렸습니다. <br>조만간에 세부적인 수정(matching을 위한 cavity한쪽 벽면의 이동성과 안테나부분)을 <br>하여 제작을 맡기도록 하겠습니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=83&amp;filenum=1\"><font class=\"list_eng\">quatzsize30mm.hfss (108.5 KB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=83&amp;filenum=2\"><font class=\"list_eng\">quartz30mm.gif (301.6 KB)</font></a>"
+}

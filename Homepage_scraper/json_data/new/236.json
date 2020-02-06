@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] MWPIS : Effect of flexible cable with corrogated tube",
+	"content": "   Rectangular Cavity Resonator를 이용한 Microwave Plasma Ion Source 실험 결과입니다.<br><br> 중요한 변수는 마이크로웨이브 파워 전달을 위한 동축선을 교체한 것입니다.<br><br> 기존에 사용하던 일반 동축선 대신 corrugated tube를 적용한 flexible cable을 적용해서 실험을 했고, 그 효과를 비교해 보았습니다.<br><br> 결과는 아래와 같이 요약할 수 있습니다.<br><br> 1. 케이블에서 파워손실이 줄어서 플라즈마로 전달되는 파워가 늘었고,<br>    그로 인해  LSP의 saturated current와 인출 빔 전류가 모두 2 배 늘었습니다.<br><br> 2. 마이크로웨이브 플라즈마의 Breakdown을 위한 입력 파워(Power Supply에 표시되는) 대비 최적의 cavity length가 기존보다 늘어났습니다.<br><br><br> 덧댐><br> 미팅시간에 말씀드린 것처럼 LSP 장치의 TMP가 제 실수로 인해 망가진 것 같습니다. (아직 뜯어보진 않았습니다.)<br> 그래서 당분간 실험을 진행하는 것이 좀 어려워졌습니다.<br> 수리 혹은 교체하는데로 연구 결과를 보고하도록 하겠습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=250&amp;filenum=1\"><font class=\"list_eng\">20090619_MWPIS_Wrinkle_Cable_Effect.ppt (1.25 MB)</font></a>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "4월 두번째 주간 보고",
+	"content": "  JET, LHD, NSTX 등 주요 핵융합 장치의 원적외선 간섭계 특성들을 정리하고<br>KSTAR에서의 원적외선 간섭계 역시 간략히 정리하였습니다. <br><br>JET, LHD 모두 최근 간섭계의 주요 화제인 fring jump error를 극복하여 신뢰성있는 정보를 <br>제공하는 방안에 대해 서로 다른 해결책을 제시하고 있습니다.<br><br>NSTX는 2004년에 100kHz에서 500kHz로 전체 신호처리시간을 증대시켰고 이 자체도 이미<br>가장 빠른 시간 분해능을 보여 주고 있지만 또한 약 2MHz로 다시 업그레이드 할 계획이라고 합니다.<br><br>간단하게는 마지막 페이지의 표를 위주로 보시면 될 것 같습니다. <br><br>밀리미터웨이브 간섭계나 원적외선 편광계 등은 아직 따로 정리하지 못했습니다. <br>우선은 저희 실험실에서 가장 연관이 깊은 원적외선 간섭계에 초점을 맞추었습니다.<br><br><br>또한 별도로 견적을 받은 Coherent와 Edinburgh 사의 <br><br>CO2 레이저 + Twin FIR laser  가격은 각각 <br><br>USD 350,000 (약  4억6천3백7십5만원), GBP 171,192 (약 3억 3천4백만원)<br><br>입니다. 4월 13일 현재 환율 기준입니다. <br><br><br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=218&amp;filenum=1\"><font class=\"list_eng\">090402_FIR_Inteferometer_World.ppt (2.62 MB)</font></a>"
+}

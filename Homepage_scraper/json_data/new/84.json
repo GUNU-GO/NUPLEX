@@ -1,0 +1,6 @@
+{
+	"title": "12월 첫째주",
+	"content": "  설계했던 cavity resonator를 <br>기존의 FIB 챔버에 설치를 하기위해 보조적인 장치를 추가로 설계했습니다.<br>설계한 main cavity box의 구조상 <br>기존의 FIB 챔버에서 quartz를 지지하고 있던 6개의 기둥을 <br>빼내어야했기 때문에 그 역할을 대신하게끔 설계하였습니다.<br>플라즈마의 발생 여부 관찰을 용이하게 하기 위하여 <br>window도 추가로 만들었습니다.<br>방금 창우진공에 도면을 팩스로 보냈고<br>사장님과 검토를 한 후 제작주문을 할 계획입니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=93&amp;filenum=1\"><font class=\"list_eng\">cavityconnector(수정).bmp (1.43 MB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=93&amp;filenum=2\"><font class=\"list_eng\">cavityconnector(수정)_total.bmp (1.43 MB)</font></a>"
+}

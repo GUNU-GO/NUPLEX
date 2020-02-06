@@ -1,0 +1,6 @@
+{
+	"title": "[정기보고]11월 넷째주",
+	"content": "  HFSS로 설계한 마이크로웨이브 cavity를 제작하기 위해서<br>inventor로 도면을 그렸습니다.<br>지난번 팀미팅 시간에 논의가 되었던 <br>cavity 내부에 플라즈마가 발생해서 ε과 μ가 변함에 따른 문제들을 <br>보완하기 위해 x축 방향으로 cavity 사이즈를 약간 조절할 수 있게끔 수정하였습니다.<br><br>문제는 cavity를 제작하더라도 지금의 도면대로라면<br>101호에 있는 FIB 챔버에 부착할때에 문제가 있다는 것인데요,<br>지금의 FIB 챔버에 퀄츠부분을 보호하면서도 진공을 유지하게끔 해주는 6개의 지지대를 제가 설계한 cavity를 사용할때는 띄어내어야 하기 때문에<br>퀄츠의 보호 및 진공의 유지에서 문제가 생긴다는 것입니다.<br>이 부분에 대한 보완을 하기 위해 고민중이고 해결책이 생기면<br>도면수정을 한번 더 해서 제작주문을 할 계획입니다.<br><br>그리고 화요일날 Ansoft주최로 연세대학교에서 열렸던 HFSS 설명회에 다녀왔습니다.<br>HFSS 사용시 생길 수 있는 궁금증들을 쉽게 설명해주는 <br>메뉴얼과 Tips에 관한 자료들을 받아왔습니다. <br>실험실에 보관할테니 혹시 나중에 HFSS를 사용하실 분들이 계시면 <br>활용하시면 되겠습미다.<br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=92&amp;filenum=1\"><font class=\"list_eng\">maincavity_crossection.bmp (2.68 MB)</font></a>",
+	"download2": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=92&amp;filenum=2\"><font class=\"list_eng\">cavitydoor_front.bmp (2.68 MB)</font></a>"
+}

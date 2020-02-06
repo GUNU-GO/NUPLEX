@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] Langmuir Probe Diagnostics in ICP for LSP",
+	"content": "   첨부한 파일의 28페이지부터 보시면 됩니다. 이전 연구 과정이 궁금하시면 전체 파일을 참고하시기 바랍니다.<br><br> LSP 발생을 위한 ICP 플라즈마를 RF compensation probe를 활용하여 측정하였습니다.<br><br><br> 프루브 진단 결과 어느정도는 RF power에 비례해서 Ion saturation current가 증가해야 할 것이라 생각했습니다만, 결과는 그렇지 못했습니다.<br> 200W, 250W, 300W에서 거의 비슷한 값의 Ion saturation current가 보이고요,<br> 350W, 400W에서 이전의 두배 정도 크기의 Ion saturation current가 보입니다.<br><br> 현 플라즈마 상태를 맞게 보여주는 것인지,<br> 그렇지 않고 probe나 진단 시스템에 문제가 있는 것인지는 (이전 데이터를 보았을 때 이 이유가 주된 것으로 판단됩니다)<br> 다른 probe나 다른 진단 시스템을 사용해서 검증해야 할 것으로 보이고요.<br> 되도록 빨리 진행하려 하고 있습니다.<br><br><br><br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=235&amp;filenum=1\"><font class=\"list_eng\">200900515_LSPinICP_II.ppt (5.65 MB)</font></a>"
+}

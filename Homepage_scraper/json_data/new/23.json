@@ -1,0 +1,4 @@
+{
+	"title": "[re] Cylindrical IEC 랩미팅 발표자료",
+	"content": "  우선 cylindrical geometry라는 점이 다르겠고, 이러한 형태 즉 collisionless의 경우에 total energy E와 angular momentum L이 일정하다는 조건으로부터 계산하는 것은 예전부터 잘 알려져 있습니다.<br>중요한 것은 distribution function을 얼마나 실제와 같게 놓고 계산하는 것이냐인데, Matsuura(Nuclear Fusion, 40 1951 (2000))의 논문에서는 이온의 경우 실제와 유사한데 전자의 경우는 제 생각엔 가정을 잘 못한 것 같았습니다. 그래서 저의 경우엔 이온은 에너지와 앵귤러 모멘텀은 가우시안 분포 형태를 갖고, 전자의 경우에는 이온에 의한 캐소드 내부에서의 이차전자 발생으로만 한정시켜 약 10eV의 델타펑션에너지와 가우시안 형태의 앵귤러 모멘텀을 갖는 것으로 가정하였습니다. 이러한 가정은 저희 시스템을 가장 잘 묘사한다고 생각합니다."
+}

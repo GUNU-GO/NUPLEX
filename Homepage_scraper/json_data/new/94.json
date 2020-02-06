@@ -1,0 +1,4 @@
+{
+	"title": " [정기보고] 1월 4주 ",
+	"content": "  리서치보드에 처음으로 글을 올립니다. 지난 가을 물리학회 이후,  연구상의 진척사항이 거의 없어서 리서치보드에 글을 올리지 않았지만, 앞으로의 연구방향에 대해서 말씀드리는 것을 시작으로 일주일에 한번  씩 올리도록 하겠습니다. <br>  연구의 (제목이 될 수 있는) 주제는 \"Modelling of current profile in  KSTAR\"입니다. 1MA, 2T에서 q-min의 값을 1.5이상으로 하고, normalized beta를 3보다 크게하면서, fracion of bootstrap current를 0.5보다 크게 하는 조건을 아스트라 코드를 이용하여 찾아낸 후, Lower-hybrid(power, phase)에 대한 q-profile(qo, q-min)의 모델링을 할 것입니다. <br>이를 위해서 우선적으로, 아스트라 코드를 이용하여 시뮬레이션을 수행함과 동시에 LHCD에 대해서 공부할 계획입니다. "
+}

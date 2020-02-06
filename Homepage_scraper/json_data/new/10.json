@@ -1,0 +1,5 @@
+{
+	"title": "[펄스전원 개발] 중간 진도보고서입니다.",
+	"content": "  기초전력의 전력선행기술인 '고반복률 방전펄스 전원기술 개발'의 중간 진도보고서입니다.<br><br>원자력연구소에서 빌려온 반도체 스위치에 대한 평가와, 부하로써 원통형 중성자 발생장치에 대한<br><br>실험 결과 및 pspice 모델링에 대한 내용이 있습니다.<br><br>아직 진행 중인 과제이기 때문에 좀 더 다듬어 나갈 필요가 있다고 생각합니다.<br><br>내용에 대하여 많은 지적 바랍니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=13&amp;filenum=1\"><font class=\"list_eng\">진도보고서_최종본.hwp (605.0 KB)</font></a>"
+}

@@ -1,0 +1,4 @@
+{
+	"title": "[re] [정기보고, 7월24일 발표] Mode transition condition in IEC device ",
+	"content": "  질문이 있습니다.<br><br>(1) Star mode, Jet mode, Mode1, Mode2 등은 우리 실험실에서 독자적으로 붙인 이름인가요? 아님 다른 연구팀에서 보고된 사례가 있는 것인가요? 있다면 그 쪽에서 제시한 모델은 어떤 것인가요?<br><br>(2) 사진상으로 보면, Transition 후에는 마치 Self-sustaining glow discharge처럼 보이는데... 이게 맞다면 V-I characteristic curve에서 Transition은 Corona(Townsend) discharge에서 Glow discharge로 천이하는 그것과 유사한 것이라 봐도 되나요?<br><br>(3) Star mode와 Mode 1의 차이는 Grid 사이를 진행하는 빔 궤적이 보이느냐 안보이냐 차이인가요? <br><br>(4) 향후 효율적인 IEC 구축 및 운전모드 확립을 위해서는 어느 Mode가 가장 이상적인가요?<br><br><br><br>>고정된 current에서 pressure를 변화시키며 current control을 통해 얻은<br>>기존의 mode transition condition과 비교한 결과.<br>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고]7월 넷째주(중성자 방사화 시스템 과제 진행사항)",
+	"content": "  금주의 팀미팅 시간이 정해지지 않아 미리 자료를 올립니다.<br>이번에는 주로 시편의 캡슐 재료와 ANSYS를 이용한 유체 해석에 관해 주로 연구하였습니다.<br><br>캡슐 재료로써는 일단 토카막에 쓰이는 구조재 위주로 연구를 진행할 계획입니다. 아울러 스테인레스 스틸 재료들에 대해서도 연구를 진행할 것입니다.<br><br>위치 추적 시스템의 후보로 거론된 압력과 유량 탐지 방법을 ANSYS로 모사해 보았습니다. 본격적인 실험장치 제작과 실험에 앞서서 전산 모사를 먼저 해 보았습니다. 그러나 ANSYS의 숙련도가 떨어지는 관계로 많이 진행하지는 못하였습니다. 앞으로 계속 공부하면서 참고 자료로 쓰일 수 있도록 ANSYS 모사를 진행 할 계획입니다. 전산 모사를 먼저한 이유는 후일 압력 및 유량 측정 장비의 선택과 실험 장치 설계의 바탕 자료로 쓰고자 해서 입니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=345&amp;filenum=1\"><font class=\"list_eng\">100723_Team_DangJJ_NAS.pptx (1.64 MB)</font></a>"
+}

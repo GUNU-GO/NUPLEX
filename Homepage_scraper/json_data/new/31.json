@@ -1,0 +1,5 @@
+{
+	"title": "원형도파관 Stark 레이저의 또다른 특징 - triplet splitting",
+	"content": "  기존의 사각 도파관은 fir 빔의 편광에 따라 진행손실 차이가 크기 때문에 quantum number (M 변화) = 1 혹은 -1 인 모드만 천이 가능했으므로 특유의 \"doublet splitting\"이 일어납니다. 그러나 원형 도파관은 진행손실 차이가 거의 없으므로 (M 변화) = 0 인 천이도 일어날 수 있으므로 \"tripplet splitting\"이 일어날 가능성이 예측됩니다. 또한 (delta M)=0 모드에 대한 빔 출력 증가가 기대되는데, 이를 이용하면 70.5 um 빔을 사용한 고출력 고시간분해능의 간섭계를 구축할 수 있지 않을까 하고 생각합니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=40&amp;filenum=1\"><font class=\"list_eng\">stark_effect_for_fir_laser.ppt (574.5 KB)</font></a>"
+}

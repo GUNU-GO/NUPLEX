@@ -1,0 +1,5 @@
+{
+	"title": "higher order mode frequencies",
+	"content": "  지난번 계산에서 사각 도파관이 원형 도파관보다 coupling loss가 두 배 이상 크다는 점을 밝혀내었습니다. 첨부에서는 이러한 문제를 없애기 위해 plane mirror 대신 concave mirror를 커플러로 사용했을 경우 Gouy phase shift에 의해 higher order mode의 frequencies가 fundamental mode frequency에서 갈라져 나온다는 사실을 정리하였습니다. 그리하여 concave mirror를 사용하는 것이 사각 도파관의 문제점을 해결해 주는 것이 아님을 확인할 수 있었습니다. ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=37&amp;filenum=1\"><font class=\"list_eng\">Guoy_frequencies.ppt (112.0 KB)</font></a>"
+}

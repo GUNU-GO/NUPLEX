@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] 에미턴스 측정데이터로부터 이온빔 크기에 대한 에미턴스 계산",
+	"content": "   현재 FIB용 플라즈미 이온원의 휘도를 다른 플라즈마 이온원(LBNL의 이온원)의 결과를 비교하기 위해서는, 5 μm에 해당하는 이온빔의 휘도를 계산할 수 있어야 합니다.<br><br> 현재 저희가 측정하는 FIB용 이온빔의 지름은 약 10~20 mm 이고(에미턴스 측정기에서), slit의 폭, 즉 beam을 잘라서 볼수 있는 폭은 약 100 μm 여서, 5 μm의 지름의 이온빔의 휘도를 직접적으로 측정하기는 어렵습니다.<br><br> 그러나 빔 분율에 대한 에미턴스를 간접적으로 유추하는 방식을 응용해서 이온빔의 지름 대비 에미턴스를 구하고 이로부터 휘도를 구하는 방법을 통해서, 5 μm의 지름의 이온빔의 휘도를 간접적으로 얻을 수 있을 것으로 예상하고 있습니다.<br><br> 이 방법에 대해서 간단히 정리한 결과를 업로드합니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=315&amp;filenum=1\"><font class=\"list_eng\">20100306_Estimate_Emittance_FIB.ppt (1.03 MB)</font></a>"
+}

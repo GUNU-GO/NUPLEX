@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] Ion Source for Compact Neutron Generator: Gas Control Methods",
+	"content": " <br> 최근 소형 중성자 발생기용 이온원에 대한 공부를 하고 있습니다.<br> (여기서 소형이란 들고 다니는 것이 가능한 정도로 작고 가벼운 것을 의미합니다. 파워나 컨트롤 시스템은 제외.)<br> 정전렌즈를 사용한 가속기 형태로, 이온원과 타겟으로 구성된 중성자 발생장치입니다.<br><br> 이러한 형태의 이온원을 만들 때, 통상 이온원으로 가스를 주입하고 인출 및 가속단에서 고진공 펌프를 이용하여 차등 진공을 유지하는 방법을 사용합니다만, 소형 중성자 발생기에 고진공 펌프를 부착하기는 사실상 어려워 보입니다.<br> 그래서 기존 소형 중성자 발생 장치들에 사용된 가스 공급 방법을 간단히 리뷰해 보았습니다.<br><br> 상용장치가 많이 나와 있어서인지 근래의 자료를 찾기가 어렵습니다. <br> 대부분 예전 자료들이고요, 참고문헌은 생략했습니다. ㅎ<br><br><br><br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=305&amp;filenum=1\"><font class=\"list_eng\">20091204_compactNG.ppt (1.37 MB)</font></a>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] VI characteristics of LSP",
+	"content": " <br> 15 페이지부터 보시면 됩니다.<br><br> 누적된 페이지를 남겨 두는 것은 혹시 처음 보시더라도 연구의 전체적인 흐름을 확인하실 수 있도록 하기 위해서입니다.<br><br> 내용은 다음과 같습니다.<br><br><br> 1. cooled probe에 냉각수 inlet을 바꿨더니, 아마도 냉각이 잘 되지 않아서 probe가 과열되어 녹았고, 그 때문에 생긴 공간으로 냉각수가 새서 진공이 파괴되는 경우가 발생했습니다. 이후 이전에 제작한 probe를 설치하고 냉각수를 원래대로 바깥쪽 pipe로 넣어준 상태에서 실험을 진행하였습니다.<br>    결론은 수직으로 설치된 coaxial cooling channel의 inlet은 바깥쪽이 되는 것이 좋지 않은가 정도가 될 수 있겠습니다.<br><br> 2. LSP의 VI characteristics 측정 결과<br><br> 3. LSP의 안정성 실험.<br><br> ( 2, 3번의 자세한 내용은 자료를 참고하시기 바랍니다.)<br><br><br>",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=222&amp;filenum=1\"><font class=\"list_eng\">20090417_ICPchamberfabrication4LSP_V.ppt (5.05 MB)</font></a>"
+}

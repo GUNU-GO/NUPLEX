@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] Langmuir Probe Diagnostics & OES in ICP for LSP ",
+	"content": "   보고가 늦었습니다. <br><br> 첨부한 파일의 31페이지부터 보심됩니다.<br><br> Langmuir Probe로 ICP를 다시 측정한 결과를 올렸습니다.<br><br> RF Power를 키웠음에도 불구하고 Ion Saturation Current의 변화가 별로 없었습니다.<br> Langmuir Probe를 이전과 다른 것을 썼음에도 불구하고 납득할만한 결과가 나오지 않아서,<br> 원인을 찾아본 결과 Langmuir probe의 current를 측정하는 circuit에서 offset이 나타나는 문제를 확인할 수 있었습니다.<br> 이에 석근이가 제작한 voltage-sweep & current 측정장치로 실험을 하고 결과를 비교해 볼 계획을 세웠습니다. 결과는 다음 보고에서 말씀드리겠습니다.<br><br> Langmuir Probe의 측정결과가 잘못된 것이다라는 판단의 근거의 하나로 OES 측정결과를 들수 있겠습니다.<br> 아직 Argon 플라즈마의 전자온도, 밀도를 정확히 판단하기는 어렵지만,<br> 운전 조건 즉 RF power, 압력 조건에 따라서 spectral line intensity가 변화하는 모습은 확인할 수 있었습니다.<br> 추후에 정증이와 함께 OES로부터 argon 플라즈마 특성 해석을 해 볼 생각입니다.<br><br> 한달이 지났는데, 계획 대비 성과가 좋지 않습니다.<br> 내달에는 충실히 목표를 달성할 수 있도록 노력하겠습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=243&amp;filenum=1\"><font class=\"list_eng\">20090529_LSPinICP_III.ppt (6.06 MB)</font></a>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "[랩미팅 발표자료] 펄스시스템 해석에 있어서 쉬스 캐패시턴스의 고려",
+	"content": "  제목 그대로 펄스 전원의 회로 모델을 개발함에 있어서 쉬스의 캐패시턴스 성분을 고려하였습니다. 이온이 쉬스 공간을 날아오는 시간(ion transit time)을 고려할 경우에는 쉬스 캐패시턴스가 상당히 커질 수 있으며, 이를 고려할 경우 실험값과 대략 일치하는 경향을 보였습니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=46&amp;filenum=1\"><font class=\"list_eng\">[20060220]_Considerations_of_sheath_capacitance.ppt (5.38 MB)</font></a>"
+}

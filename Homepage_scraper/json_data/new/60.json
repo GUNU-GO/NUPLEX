@@ -1,0 +1,5 @@
+{
+	"title": "[랩미팅] 쉬스 방전 전압 모델링",
+	"content": " <br> 쉬스 방전 플라즈마의 방전 전압을 간단하게 모델링하였습니다.<br><br> Matlab 을 이용해 수치적으로 계산한 결과들과 실험 데이터를 비교한 내용들이 담겨 있습니다.<br><br> 다소 무리한 가정과 간략한 계산임에도 실험 데이터를 어느 정도 정확히 모사할 수 있어서 실험 데이터로부터 얻은 방전 전압 특성을 현상적으로 이해하고 해석하는데에 효과적으로 쓰일 수 있을 것으로 보입니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=69&amp;filenum=1\"><font class=\"list_eng\">20070413.pdf (352.0 KB)</font></a>"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "[랩미팅] 원적외선레이저 출력과 외부전장효과",
+	"content": "  Hanle effect를 이용하여 전장에 따라 레이저 출력이 변화하는 현상을 해석한 것입니다. <br>기존의 Hanle effect 계산 방식으로는 optically pumped laser를 해석할수 없으므로 다음의 두가지 조건을 고려한 계산방법을 고안하였습니다. <br><br>1. 다른 initial state도 interference(Hanle effect)에 영향을 미칠수 있다. <br>2. 편광방향에 따라 decay time이 다르다<br><br>위 두 조건을 첨가한 계산결과, 기존의 NLHE 이론으로는 완벽하게 설명하지 못했던 현상들이 설명 가능합니다. 또한 Hanle effect에 의한 영향이 아니라는 증거였던 기존의 실험 결과도 이 방법을 통해 그또한 Hanle effect로 설명 가능하다는 것이 기대됩니다.  ",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=67&amp;filenum=1\"><font class=\"list_eng\">electric_field_effect(200703).ppt (1.53 MB)</font></a>"
+}

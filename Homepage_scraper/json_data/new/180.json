@@ -1,0 +1,5 @@
+{
+	"title": "주간 리포트",
+	"content": "  IEC연구에 있어서 현재까지 정리된 전산모사결과가 포함된 발표자료를 첨부합니다.<br>4팀 세미나 자료에 ion energy distribution 결과 한 페이지가 추가되었습니다. 제 눈엔 흥미로워 보입니다. ^^<br>이상의 결과들을 정리하여 IEC 전산모사를 통해 particle behavior 및 IEC 방전의 특징에 대한 논문을 작성중입니다. 늦어도 3월 중으로 초안을 마무리 할 계획입니다.<br>추후 연구 target은 크게 두 가지로 정리되는데, 하나는 cathode 내부에서 일어나고 있는 현상과 다른 하나는 anode 주변에서 일어나는 현상입니다. 전자는 cathode 내부의 potential profile과 그곳에서의 electron과 ion들의 거동을 이용하여 궁극적으로 NPR를 높이기 위한 연구를 포함하고, 후자는 anode grid effect와 backscattered electon 효과를 포함합니다.<br>두 가지 연구 방향 모두 코드를 이용한 방전 특성을 예측하고 그것의 실험적 확인(가능한 진단 포함)을 통해 NPR를 높이기 위한 방향을 제시함과 동시에 코드 자체의 validity를 높일 수 있도록 하는것을 목표로 합니다.<br>이상입니다.",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=192&amp;filenum=1\"><font class=\"list_eng\">IEC.ppt (5.16 MB)</font></a>"
+}

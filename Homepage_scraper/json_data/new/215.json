@@ -1,0 +1,5 @@
+{
+	"title": "[정기보고] Design of CARFRE-ST",
+	"content": "  지난주 미팅(5월 1일)때 발표한 자료입니다.<br>주내용은 아래와 같습니다.<br><br>1. Solenoid Ramp down용 BRIS circuit PSPICE 통해 확인<br>2. AC injection을 위한 디자인 변경 (thin solenoid 첨가)<br>3. Specific mechanical design of CARFRE-ST (PF 고정대)<br>4. Future work (Solenoid charging 및 ramp down 시의 merged plasma 변화 양상 확인, TF coil 및 solenoid circuit 구성을 위한 기초 실험, mechanical design 보완)",
+	"download1": "<a href=\"http://nuplex.snu.ac.kr/zeroboard/download.php?id=Research&amp;page=1&amp;sn1=&amp;divpage=1&amp;sn=off&amp;ss=on&amp;sc=on&amp;select_arrange=headnum&amp;desc=asc&amp;no=229&amp;filenum=1\"><font class=\"list_eng\">Labmeeting(20090501).ppt (1.47 MB)</font></a>"
+}
