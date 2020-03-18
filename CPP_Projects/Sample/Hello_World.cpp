@@ -1,12 +1,20 @@
 #include <stdio.h>
- 
-int main()
-{
-    printf("문자열을 입력후 엔터를 누르세요!\n");
 
-    char a[256];
-    scanf("%s", a);
+void update(int *a,int *b) {
+    int sum = *a + *b;
+    int absDifference = *a - *b > 0 ? *a - *b : -(*a - *b);
+    *a = sum;
+    *b = absDifference; 
+}
 
-    printf(" \" %s \" 를 입력하셨네요.\n", a);
+int main() {
+    int a, b;
+    int *pa = &a, *pb = &b;
+
+    scanf("%d %d", &a, &b);
+    update(pa, pb);
+    printf("%d\n%d", a, b);
+
     return 0;
 }
+
