@@ -1,2 +1,2 @@
-# PRL
+# SNUPI
 Projects
